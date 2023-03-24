@@ -1,0 +1,17 @@
+
+
+**Database Name: help desk management system**
+
+**Developed by Emmanuel Matewere**
+
+**Recommended PHP Version 7.4**
+
+
+**Admin Login Details**
+
+Email	: admin
+Password:  admin
+
+
+
+
