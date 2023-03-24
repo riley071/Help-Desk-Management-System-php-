@@ -6,24 +6,19 @@ A help desk management system is a software application that allows organization
 
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="left">
  
   </a>
 
-  <h3 align="center"> Help-Desk-Management-System-php-</h3>
+  <h3 align="left"> Help-Desk-Management-System-php-</h3>
 
-  <p align="center">
+  <p align="left">
    A help desk management system is a software application that allows organizations to manage and track customer support requests. 
 
 
