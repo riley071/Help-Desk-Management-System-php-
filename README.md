@@ -10,10 +10,13 @@
   <p align="left">
    A help desk management system is a software application that allows organizations to manage and track customer support requests. 
 
-
-   <br />
+  <br />
   
+ The PHP/MySQLi-based system was developed with HTML, CSS, Javascript, and Bootstrap. The system includes an important role for the admin, who is responsible for approving complaints and managing database information, such as complaint categories and subcategories. The admin can also update the status of each complaint.
 
+Users can register for an account or login to the system publicly and submit complaints or queries using a form provided in the system. Additionally, users can view the history of their complaints and see updates on the status of their requests.
+
+Overall, this system provides a user-friendly interface for submitting and managing complaints, with the admin playing a key role in ensuring the effective management of the system's data and processes.
 
 
 
