@@ -22,8 +22,9 @@
 
  ![admin home page](https://user-images.githubusercontent.com/81653537/227630481-fe4466f6-dafe-4947-8644-bd182f155718.jpg)
 ![admin manage complaint](https://user-images.githubusercontent.com/81653537/227631747-0a00dbb2-b0b8-4b7d-af39-a52fcc4090cd.jpg)
-![submit complaint ](https://user-images.githubusercontent.com/816535![view detials of complaint admin](https://user-images.githubusercontent.com/81653537/227631886-b0bfb677-e1bd-4334-be54-f2ce37dcb458.jpg)
-37/227631818-3b127283-6844-4f48-9b52-3cb67a56531d.jpg)
+![view detials of complaint admin](https://user-images.githubusercontent.com/81653537/227632039-663b72fe-b55b-40a2-a187-3a5c3a105cb7.jpg)
+![complaint history details](https://user-images.githubusercontent.com/81653537/227632069-e8dd016d-e74d-419b-8466-10af61917ef8.jpg)
+
 
 A help desk management system is a software application that allows organizations to manage and track customer support requests. In PHP, a help desk management system can be developed as a web-based application that provides a user-friendly interface for managing support tickets.
 
